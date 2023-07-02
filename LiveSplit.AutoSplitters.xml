@@ -18720,3 +18720,13 @@
         <Website>https://www.speedrun.com/oblivion_override</Website>
     </AutoSplitter>
 </AutoSplitters>
+    <AutoSplitter>
+	<Games>
+	    <Game>The Underground Man 2</Game>
+	</Games>
+	<URLs>
+	    <URL>https://raw.githubusercontent.com/Zzzonked1337/The-Underground-Man-2-AutoSplitters/main/tum2%20v2.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description>Autosplitter with start, reset, no final split though (By Zzzonked and shogunator)</Description>
+    </AutoSplitter>
